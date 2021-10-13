@@ -2,7 +2,7 @@
 
 My name is Maddison Khire and I am a Junior at the University of North Carolina at Chapel Hill studying Biomedical Engineering and Computer Science.
 
-Please feel free to take a look at my repositories to see Computer Science projects that I have worked on in my classes and research.
+Please feel free to take a look at my repositories to see programming-related projects that I have worked on in my classes and research.
 
 <!--
 **MaddisonK/MaddisonK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
