@@ -4,6 +4,8 @@ My name is Maddison Khire and I am a Junior at the University of North Carolina 
 
 Please feel free to take a look at my repositories to see programming-related projects that I have worked on in my classes and research.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaddisonK)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MaddisonK/MaddisonK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
