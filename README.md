@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-My name is Maddison Khire and I am a Junior at the University of North Carolina at Chapel Hill studying Biomedical Engineering and Computer Science.
+My name is Maddison Khire and I am a Senior at the University of North Carolina at Chapel Hill studying Biomedical Engineering and Computer Science.
 
 Please feel free to take a look at my repositories to see programming-related projects that I have worked on in my classes and research.
 
