@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-My name is Maddison Khire and I am a graduate from the University of North Carolina at Chapel Hill with a double major in Computer Science and Biomedical Engineering.
+My name is Maddison Khire and I am a graduate from the University of North Carolina at Chapel Hill that double majored in Computer Science and Biomedical Engineering.
 
 Please feel free to take a look at my repositories to see programming-related projects that I have worked on in my classes, research, and for fun.
 
